@@ -5,7 +5,7 @@ Email : pjh5672.dev@gmail.com
 
 ## History  
 **Sep 02 2020**  
-- First Commit    
+First Commit.    
 
 
 ## Reference
