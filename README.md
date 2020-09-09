@@ -1,4 +1,4 @@
-# Machine Learning for Beginners   
+## Machine Learning for Beginners   
 
 ![](./images/ML01.jpg)  
 **My practice note for Machine Learning Basics**  
