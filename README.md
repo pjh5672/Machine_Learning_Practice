@@ -1,7 +1,7 @@
 # Machine Learning for Beginners   
 
 ![](./images/ML01.jpg)  
-**<center>My practice note for Machine Learning Basics</center>**  
+**My practice note for Machine Learning Basics**  
 **Author : Park Jiho**  
 **Email : pjh5672.dev@gmail.com**   
 
