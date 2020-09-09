@@ -7,9 +7,9 @@
 
 ## History  
 **Sep 09 2020**  
-Update on Linear Regression Analysis   
+- Update on Linear Regression Analysis   
 **Sep 02 2020**  
-First Commit.    
+- First Commit.    
 
 
 ## Reference
