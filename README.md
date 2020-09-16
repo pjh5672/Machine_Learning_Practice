@@ -15,4 +15,6 @@ First Commit
 
 
 ## Reference
- - FastCampus
+ - Fast Campus
+ - Linear algebra for programmer
+ - Pattern recognition and machine learning
