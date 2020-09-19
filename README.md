@@ -6,6 +6,8 @@
 **Email : pjh5672.dev@gmail.com**   
 
 ## History  
+**Sep 19 2020**  
+Update on K-means clustering   
 **Sep 16 2020**  
 Update on logistic regression analysis with weight decay(Lasso, Ridge regularization)   
 **Sep 09 2020**  
