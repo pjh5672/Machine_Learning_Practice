@@ -6,6 +6,8 @@
 **Email : pjh5672.dev@gmail.com**   
 
 ## History  
+**Sep 20 2020**  
+Update on notebook for Principal Component Analysis(PCA)    
 **Sep 19 2020**  
 Update on notebook for KMeans, Hierarchical, DBSCAN clustering    
 **Sep 16 2020**  
