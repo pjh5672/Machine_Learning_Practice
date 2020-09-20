@@ -7,7 +7,7 @@
 
 ## History  
 **Sep 20 2020**  
-Update on notebook for Principal Component Analysis(PCA)    
+Update on notebook for Principal Component Analysis(PCA), Naive Bayes Classifier, K-Nearest Neighbors Algorithm    
 **Sep 19 2020**  
 Update on notebook for KMeans, Hierarchical, DBSCAN clustering    
 **Sep 16 2020**  
