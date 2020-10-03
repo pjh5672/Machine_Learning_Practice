@@ -6,6 +6,8 @@
 **Email : pjh5672.dev@gmail.com**   
 
 ## History  
+**Oct 03 2020**  
+Update on notebook for Support Vector Machine    
 **Sep 30 2020**  
 Update on notebook for Linear Discriminant Analysis and Quadratic Discriminant Analysis    
 **Sep 20 2020**  
