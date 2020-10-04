@@ -6,6 +6,8 @@
 **Email : pjh5672.dev@gmail.com**   
 
 ## History  
+**Oct 04 2020**  
+Update on notebook for Decision Tree      
 **Oct 03 2020**  
 Update on notebook for Support Vector Machine    
 **Sep 30 2020**  
