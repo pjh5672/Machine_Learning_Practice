@@ -7,7 +7,7 @@
 
 ## History  
 **Oct 04 2020**  
-Update on notebook for Decision Tree      
+Update on notebook for Decision Tree(Classification, Regression examples)      
 **Oct 03 2020**  
 Update on notebook for Support Vector Machine    
 **Sep 30 2020**  
