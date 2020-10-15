@@ -6,6 +6,8 @@
 **Email : pjh5672.dev@gmail.com**   
 
 ## History  
+**Oct 15 2020**  
+Update on notebook for Artificial Neural Network  
 **Oct 04 2020**  
 Update on notebook for Decision Tree(Classification, Regression examples)      
 **Oct 03 2020**  
