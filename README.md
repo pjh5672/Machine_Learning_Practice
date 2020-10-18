@@ -6,6 +6,8 @@
 **Email : pjh5672.dev@gmail.com**   
 
 ## History  
+**Oct 18 2020**  
+Update on notebook for Ensemble Learning(Bagging)   
 **Oct 15 2020**  
 Update on notebook for Artificial Neural Network  
 **Oct 04 2020**  
