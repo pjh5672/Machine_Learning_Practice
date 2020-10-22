@@ -6,6 +6,8 @@
 **Email : pjh5672.dev@gmail.com**   
 
 ## History  
+**Oct 22 2020**  
+Update on notebook for Ensemble Learning(Boosting)   
 **Oct 21 2020**  
 Update on notebook for Ensemble Learning(RandomForest)   
 **Oct 18 2020**  
