@@ -7,7 +7,7 @@
 
 ## History  
 **Oct 22 2020**  
-Update on notebook for Ensemble Learning(Boosting)   
+Update on notebook for Ensemble Learning(Boosting, SMOTE)   
 **Oct 21 2020**  
 Update on notebook for Ensemble Learning(RandomForest)   
 **Oct 18 2020**  
