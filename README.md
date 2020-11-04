@@ -6,6 +6,8 @@
 **Email : pjh5672.dev@gmail.com**   
 
 ## History  
+**Nov 04 2020**  
+Update on notebook for mini project 1(Online-Shopping Data Analysis)   
 **Oct 22 2020**  
 Update on notebook for Ensemble Learning(Boosting, SMOTE)   
 **Oct 21 2020**  
